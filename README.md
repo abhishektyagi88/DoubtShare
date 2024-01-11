@@ -1,5 +1,6 @@
 # DoubtShare
 # Developed DoubtShare, a web-based platform designed for sharing and resolving doubts among users. The project utilized a full-stack technology stack to ensure a secure and collaborative environment for users seeking assistance.
+Demo Link : https://doubtshare-dqhx.onrender.com
 *  Developed a web-based application DoubtShare using **React**, **Express**, **NodeJs**, **MongoDB** for users to share there doubts.
 *  Ensured secure user authentication using **bcrypt.js** for password hashing and **JWT** for authentication, maintaining a protected user environment.
 *  Implemented **CORS** middleware for secure cross-origin data sharing, bolstering the overall security of the application.
