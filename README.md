@@ -4,7 +4,7 @@
 *  Ensured secure user authentication using **bcrypt.js** for password hashing and **JWT** for authentication, maintaining a protected user environment.
 *  Implemented **CORS** middleware for secure cross-origin data sharing, bolstering the overall security of the application.
 *  Developed a design using **AntD** components for a polished UI and **Tailwind** **CSS**, providing a seamless experience.
-*  Leveraged Redux to manage the application state, that will result in an improvement of overall application performance.
+*  Leveraged **Redux** to manage the application state, that will result in an improvement of overall application performance.
 
   # The Home Page
   ![1](https://github.com/abhishektyagi88/DoubtShare/assets/146976779/22299c8a-2635-44d3-b2a5-37ae603417ab)
